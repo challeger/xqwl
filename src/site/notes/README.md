@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/README/"}
+{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"]}
 ---
 
 # WELCOME TO 信启未来😄
